@@ -1,3 +1,36 @@
+
+.header {
+  background-color: rgb(96, 231, 97);
+  height: 50px;
+  padding-bottom: 20px;
+  margin: -16px;
+}
+
+.header-logo {
+  font-size: 30px;
+  font-family: sans-serif;
+  color: rgb(242, 251, 237);
+  float: left;
+  padding: 5px 20px;
+}
+
+li {
+  list-style: none;
+}
+
+.header-list li {
+  font-size: 20px;
+  color: rgb(242, 251, 237);
+  float: left;
+  padding: 10px
+}
+
+.main {
+  background-image: url(mathematics-1622448_1280.jpg);
+  height: 800px;
+  margin: -40px -10px 0px -10px;
+}
+
 .copy-container {
   font-size: 30px;
   color:rgb(236, 246, 240);
